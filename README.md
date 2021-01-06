@@ -13,4 +13,5 @@ Change \"\<\<your primary relay connection string\>\>\" string with the primary 
 
 For more info, check my blog post at :
 
+https://devblog.sertanyaman.com/2021/01/11/how-to-integrate-dynamics-ax-2012-with-azure-and-power-platform/
 
