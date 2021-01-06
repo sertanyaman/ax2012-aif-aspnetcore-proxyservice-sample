@@ -3,6 +3,8 @@ AX 2012 AIF proxy service sample
 
 Publishes AX 2012 AIF Services as REST API services and connects them to Azure and Power Automate.
 
+Support for swagger documents.
+
 Support for Azure relay listeners and running as relay listener windows services exists in the code, just uncomment the required lines.
 
 Change "<<yourserver>>" string with the name of your own AOS server. 
