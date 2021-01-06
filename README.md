@@ -7,9 +7,9 @@ Support for swagger documents.
 
 Support for Azure relay listeners and running as relay listener windows services exists in the code, just uncomment the required lines.
 
-Change "<<yourserver>>" string with the name of your own AOS server. 
+Change \"\<\<yourserver\>\>\" string with the name of your own AOS server. 
 
-Change "<<your primary relay connection string>>" string with the primary connection string of your azure relay connection.
+Change \"\<\<your primary relay connection string\>\>\" string with the primary connection string of your azure relay connection.
 
 For more info, check my blog post at :
 
